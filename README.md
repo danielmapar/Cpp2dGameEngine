@@ -12,3 +12,7 @@ A simple game engine written in modern C++ (`cpp17`) using the `SDL2` library. T
 * Run `make build` and `make run`
 
 * Enjoy!
+
+## Demo Video
+
+* [![C++ Game Engine](https://img.youtube.com/vi/dc97ZLoevHw/0.jpg)](https://www.youtube.com/watch?v=dc97ZLoevHw)
